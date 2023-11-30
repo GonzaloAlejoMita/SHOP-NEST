@@ -30,7 +30,7 @@ This is an ecommerce web application built using React, React Router, Redux Tool
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/BMBruce/SHOP-NEST.git`
+1. Clone the repository: `git clone https://github.com/YuriSereda777/SHOP-NEST.git`
 2. Navigate to the project directory: `cd SHOP-NEST`
 3. Install dependencies: `npm install`
 
